@@ -1,0 +1,45 @@
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.header{
+  margin-top: 50px;
+  padding: 156px 0 100px;
+  
+}
+.text-white {
+  color: #fff!important;
+}
+
+.bg-primary {
+  background-color: #007bff!important;
+}
+
+
+.about {
+  padding: 150px 0;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+.image{
+  background-image: url("/images/image.jpg");  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content{
+  color: aliceblue;
+}
+.image2{
+  background-image: url("/images/image2.jpg");  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image3{
+  background-image: url("/images/image3.jpg");  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
